@@ -59,4 +59,4 @@ These insights help logistics managers improve operational planning.
 -- Enhance customer satisfaction
 
 
-Example: ![Dashboard Preview].(https://github.com/Nitesh15180/Logistics-Analysis-Power-BI/blob/main/Dashhboard_image.png)
+Example: ![Dashboard Preview](https://github.com/Nitesh15180/Logistics-Analysis-Power-BI/blob/main/Dashhboard_image.png)
